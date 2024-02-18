@@ -66,7 +66,6 @@ namespace CarParkPayMachine
         }
 
         // Machine must have at least £1.95 in change for possible worst case senario
-
         public bool CanGiveChange()
         {
             bool canGiveChange = false;
@@ -177,16 +176,16 @@ namespace CarParkPayMachine
             Console.WriteLine();
 
             // uncomment this line if you want to display coins in machine
-            DisplayMachineCoins();
+            //DisplayMachineCoins();
 
             Console.WriteLine("Select number of hours");
             Console.WriteLine();
 
-            Console.WriteLine("Option 1 1 hour");
-            Console.WriteLine("Option 2 2 hours");
-            Console.WriteLine("Option 3 4 hours");
-            Console.WriteLine("Option 4 6 hours");
-            Console.WriteLine("Option 5 12 hours");
+            Console.WriteLine("Option 1 1 hour        50p");
+            Console.WriteLine("Option 2 2 hours    £1.25");
+            Console.WriteLine("Option 3 4 hours    £3.70");
+            Console.WriteLine("Option 4 6 hours    £6.00");
+            Console.WriteLine("Option 5 12 hours  £13.55");
             Console.WriteLine();
             Console.WriteLine("-------------------------------------------------");
             Console.WriteLine();
@@ -257,11 +256,10 @@ namespace CarParkPayMachine
         {
             bool optionValid = false;
 
-            Console.WriteLine("Fee due {0:C}", PayMachine.Fee);
-            Console.WriteLine();
-
             PayMachine.DisplayCoinsInserted();
 
+            Console.WriteLine("Fee due {0:C}", PayMachine.Fee);
+            Console.WriteLine();
             Console.WriteLine("Option 1 insert five pence coin");
             Console.WriteLine("Option 2 insert ten pence coin");
             Console.WriteLine("Option 3 insert twenty pence coin");
@@ -474,8 +472,6 @@ namespace CarParkPayMachine
             {
                 Console.WriteLine("Two pound coins returned {0}", ChangeTwoPoundCoin);
             }
-            Console.WriteLine();
-            Console.WriteLine("-------------------------------------------------");
             Console.WriteLine();
         }
 
