@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            CarParkPayMachine PayMachine = new CarParkPayMachine();
-            PayMachine.RunCarParkPayMachine();
+            CarParkPayMachineState PayMachineState = new CarParkPayMachineState();
+            PayMachineState.RunCarParkPayMachine();
         }
     }
 }

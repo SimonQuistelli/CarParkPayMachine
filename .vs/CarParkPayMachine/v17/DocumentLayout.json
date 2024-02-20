@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\simonq\\source\\repos\\CarParkPayMachine\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C1400D8E-66BE-465F-8ED0-1F986002B527}|CarParkPayMachine\\CarParkPayMachine.csproj|c:\\users\\simonq\\source\\repos\\carparkpaymachine\\carparkpaymachine\\carparkpaymachinestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1400D8E-66BE-465F-8ED0-1F986002B527}|CarParkPayMachine\\CarParkPayMachine.csproj|solutionrelative:carparkpaymachine\\carparkpaymachinestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1400D8E-66BE-465F-8ED0-1F986002B527}|CarParkPayMachine\\CarParkPayMachine.csproj|c:\\users\\simonq\\source\\repos\\carparkpaymachine\\carparkpaymachine\\carparkpaymachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1400D8E-66BE-465F-8ED0-1F986002B527}|CarParkPayMachine\\CarParkPayMachine.csproj|solutionrelative:carparkpaymachine\\carparkpaymachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CarParkPayMachineState.cs",
+              "DocumentMoniker": "C:\\Users\\simonq\\source\\repos\\CarParkPayMachine\\CarParkPayMachine\\CarParkPayMachineState.cs",
+              "RelativeDocumentMoniker": "CarParkPayMachine\\CarParkPayMachineState.cs",
+              "ToolTip": "C:\\Users\\simonq\\source\\repos\\CarParkPayMachine\\CarParkPayMachine\\CarParkPayMachineState.cs",
+              "RelativeToolTip": "CarParkPayMachine\\CarParkPayMachineState.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAqwFEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T14:57:13.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CarParkPayMachine.cs",
               "DocumentMoniker": "C:\\Users\\simonq\\source\\repos\\CarParkPayMachine\\CarParkPayMachine\\CarParkPayMachine.cs",
               "RelativeDocumentMoniker": "CarParkPayMachine\\CarParkPayMachine.cs",
               "ToolTip": "C:\\Users\\simonq\\source\\repos\\CarParkPayMachine\\CarParkPayMachine\\CarParkPayMachine.cs",
               "RelativeToolTip": "CarParkPayMachine\\CarParkPayMachine.cs",
-              "ViewState": "AQIAAKoAAAAAAAAAAAAmwLcAAAA8AAAA",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAmwLEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-15T12:51:49.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\simonq\\source\\repos\\CarParkPayMachine\\CarParkPayMachine\\Program.cs",
               "RelativeDocumentMoniker": "CarParkPayMachine\\Program.cs",
