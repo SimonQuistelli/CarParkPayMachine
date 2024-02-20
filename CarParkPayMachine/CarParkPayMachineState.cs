@@ -86,7 +86,7 @@ namespace CarParkPayMachine
             Console.WriteLine();
 
             // uncomment this line if you want to display coins in machine
-            PayMachineState.DisplayMachineCoins();
+            // PayMachineState.DisplayMachineCoins();
 
             Console.WriteLine("Select number of hours");
             Console.WriteLine();
